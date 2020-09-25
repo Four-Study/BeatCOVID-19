@@ -18,6 +18,8 @@ Our project aims to present the Covid-19 statistics in Virginia. For now, we ass
 
 - Improvement and finalization (11/27/2020)
 
-## Tools: Rstudio, Github, Rshiny, Wechat(For group communication) 
+## Tools: 
+
+Rstudio, Github, Rshiny, Zoom, Wechat(For group communication) 
 
 ## Possible data resource: https://www.vdh.virginia.gov/coronavirus/
