@@ -1,0 +1,10 @@
+name: covid_cases
+title:
+username:
+account: youhui-ye
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3298392
+bundleId: 3913507
+url: https://youhui-ye.shinyapps.io/covid_cases/
+when: 1606500923.02359
