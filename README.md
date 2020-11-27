@@ -25,3 +25,7 @@ Rstudio, Github, Rshiny, Zoom, Wechat(For group communication)
 ## Possible data resource: 
 
 https://www.vdh.virginia.gov/coronavirus/
+
+## Shiny App link:
+
+https://youhui-ye.shinyapps.io/covid_cases/
